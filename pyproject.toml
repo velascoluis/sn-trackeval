@@ -37,6 +37,6 @@ include = ["trackeval*"]
 
 [build-system]
 requires = [
-    "setuptools=68.0.0",
+     "setuptools == 68.0.0",
 ]
 build-backend = "setuptools.build_meta"
